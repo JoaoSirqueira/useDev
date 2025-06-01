@@ -9,6 +9,9 @@ Página inicial da loja UseDev.
 
 A página mostrará um menu de navegação no cabeçalho, um banner de divulgação, lista de categorias e produtos, assim como uma seção de cadastro para a newsletter e um rodapé com links relacionados a aplicação.
 
+## Acesse o projeto em:
+https://joaosirqueira.github.io/useDev/
+
 ## ✔️ Técnicas e tecnologias utilizadas
 
 As técnicas e tecnologias utilizadas pra isso são:
