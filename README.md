@@ -26,7 +26,3 @@ As técnicas e tecnologias utilizadas pra isso são:
 - `Align Content`: Alinhamento dos itens na direção vertical.
 - `Grid Areas`: Nomeação de áreas específicas do grid para layout personalizado.
 
-## 📁 Créditos
-Desenvolvido durante o curso da **Alura**, com a orientação da professora Monica Hillman.
-
-
